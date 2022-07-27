@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.adfiap.org	TRUE	/	FALSE	1999999999	czjv_F	Jfc53A%5DXNj%40iWIe
+www.adfiap.org	TRUE	/	FALSE	1999999999	OqMyfmlkTPCxXQAi	nfVcsJ
+www.adfiap.org	TRUE	/	FALSE	1999999999	tVmHXjGFsw	GQ%5BCHc4IX
+www.adfiap.org	TRUE	/	FALSE	1999999999	MfnUhVHa	lc6Vhi
+www.adfiap.org	TRUE	/	FALSE	1999999999	FpJbLWugqNZ	%5D0meolM%40QL
+
